@@ -3,7 +3,7 @@
 A combination of online and book tutorials as well as my own notes. 
 
 ## Creational 
-"Creational design patterns abstract the instantiation process. They help make a system independent of how its objects are created, composed, and represented. A class creational pattern uses inheritance to vary the class that’s instantiated, whereas an object creational pattern will delegate instantiation to another object." - Design Patterns: Elements of Reusable Object-Oriented Software 
+"Creational design patterns <mark>abstract the instantiation process</mark> They help <mark>make a system independent of how its objects are created, composed, and represented.</mark> A class creational pattern <mark>uses inheritance to vary the class that’s instantiated, whereas an object creational pattern will delegate instantiation to another object."</mark> - Design Patterns: Elements of Reusable Object-Oriented Software 
 
 ## Structal
 "Structural patterns are concerned with how classes and objects are composed to form larger structures. Structural class patterns use inheritance to compose interfaces or implementations...structural object patterns describe ways to compose objects to realize new functionality. The added flexibility of object composition comes from the ability to change the composition at run-time, which is impossible with static class composition." - Design Patterns: Elements of Reusable Object-Oriented Software 
